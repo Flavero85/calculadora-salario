@@ -1,5 +1,3 @@
-# calculadora-salario
-
 # Calculadora de Salário
 
 ## 📝 Descrição
